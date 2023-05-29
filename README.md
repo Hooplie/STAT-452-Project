@@ -1,1 +1,1 @@
-# STAT 452 Project - Statistics Learning and Prediction
+# STAT 452 Project - Statistical Learning and Prediction
